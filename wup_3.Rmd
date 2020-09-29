@@ -52,4 +52,6 @@ plot(TukeyHSD(model1))
 
 ## Conclusions
 
+There is no difference the averaged alcohol consumption  between middle and the front.
 
+There is a difference in the average alcohol consumption between the middle and back rows.0 is not in the interval there is a difference between the average alchohol consumption between the front and back rows 
