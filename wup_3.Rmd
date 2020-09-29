@@ -1,6 +1,6 @@
 ---
 title: "Alcohol vs Seat choice"
-author: "Your Name"
+author: "Zaira Gomez"
 date: "Fall 2020"
 output: html_document
 ---
@@ -28,7 +28,7 @@ basicCN <- ggplot(davisdata,aes(y=alcohol,x=Seat))
 basicCN + geom_boxplot()
 ```
   
-  
+It appears as though the back row consumes the most alcohol during the game ,and the front row consumes the least .The middle row's alcohol consumption is i between the other results . 
 ### get fancy  
 
 ```{r}
